@@ -8,7 +8,7 @@
 
 # Penjelasan
 
-- !pip install pandas digunakan untuk menginstall package pandas di python. Package pandas digunakan untuk memanipulasi data dalam bentuk tabel (dataframe) dan digunakan untuk data analysis. Fungsi dari package pandas sangat luas, seperti melakukan operasi pada data, mengimport dan mengeksport data dari berbagai format, dan lainnya. !pp install request digunakan untuk menginstall package request di python. Package request digunakan untuk melakukan HTTP request dari python.
+- !pip install pandas digunakan untuk menginstall package pandas di python. Package pandas digunakan untuk memanipulasi data dalam bentuk tabel (dataframe) dan digunakan untuk data analysis. Fungsi dari package pandas sangat luas, seperti melakukan operasi pada data, mengimport dan mengeksport data dari berbagai format, dan lainnya. !pip install request digunakan untuk menginstall package request di python. Package request digunakan untuk melakukan HTTP request dari python.
 
 - !pip install BeautifulSoup4 digunakan untuk menginstall package BeautifulSoup4 digunakan untuk mengelola data dari HTML atau XML.
 
